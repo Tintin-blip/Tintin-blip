@@ -1,5 +1,6 @@
 ### Hi everyone! 😄
 
+I'm student of Software Engineer  🚀  from Venezuela `🇻🇪`
 ```Javascript
 const jorgePertoldi = {
   pronouns: "he" | "his",
