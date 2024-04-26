@@ -7,7 +7,7 @@ I'm student of Informatic Engineer  🚀  from Venezuela `🇻🇪`
 const jorgePertoldi = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [Vue, Vuetify, Node, Express, Docker],
+  tools: [Vue, Vuetify, Node, Express],
 }
 ```
 
