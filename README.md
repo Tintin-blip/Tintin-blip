@@ -1,4 +1,6 @@
-### Hi everyone! 😄
+## Hi everyone!!
+
+
 
 I'm student of Informatic Engineer  🚀  from Venezuela `🇻🇪`
 ```Javascript
@@ -8,8 +10,7 @@ const jorgePertoldi = {
   tools: [Vue, Vuetify, Node, Express, Docker],
 }
 ```
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+
 <!--
 **Tintin-blip/Tintin-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
