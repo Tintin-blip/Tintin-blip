@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone! 😄
 
 ```Javascript
 const jorgePertoldi = {
