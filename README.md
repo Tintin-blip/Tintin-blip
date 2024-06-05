@@ -6,7 +6,7 @@ I'm student of Informatic Engineer  🚀  from Venezuela `🇻🇪`
 ```Javascript
 const jorgePertoldi = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript,PostgresSQL, HTML, CSS],
   tools: [Vue, Vuetify, Node, Express],
 }
 ```
